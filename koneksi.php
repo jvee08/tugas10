@@ -1,6 +1,6 @@
 <?php
 $servername = "localhost"; // Nama server database, umumnya "localhost"
-$username = "root"; // Ganti dengan username MySQL Anda
+$username = "xirpl2-27"; // Ganti dengan username MySQL Anda
 $password = ""; // Ganti dengan password MySQL Anda
 $dbname = "db_xirpl2-27_1"; // Ganti dengan nama database yang berisi tabel 'buku'
 
